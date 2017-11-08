@@ -1,0 +1,19 @@
+{
+  "name": "horner",
+  "version": "1.0.0",
+  "description": "An implementation of the horner algorithm for polynomial rootfinding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpumford/rootfinding_algorithms.git"
+  },
+  "author": "Justin Pumford <jpumford@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpumford/rootfinding_algorithms/issues"
+  },
+  "homepage": "https://github.com/jpumford/rootfinding_algorithms#readme"
+}
