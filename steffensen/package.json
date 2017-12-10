@@ -1,0 +1,25 @@
+{
+  "name": "steffensen",
+  "version": "1.0.0",
+  "description": "An implementation of the steffensen algorithm for rootfinding",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpumford/rootfinding_algorithms.git"
+  },
+  "author": {
+    "name": "Justin Pumford",
+    "email": "jpumford@gmail.com"
+  },
+  "contributors": [
+    {
+      "name": "June Crane",
+      "email": "junec177@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpumford/rootfinding_algorithms/issues"
+  },
+  "homepage": "https://github.com/jpumford/rootfinding_algorithms#readme"
+}
